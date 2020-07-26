@@ -1,0 +1,27 @@
+---
+authors: 
+  - Ovidiu Crăciun
+source: 
+  name: www.chessstar.com
+  date: 
+    year: 2020
+    month: 5
+    day: 07
+  problemid: 2504
+award: 
+  tourney: 
+    name: 
+  distinction: 
+algebraic: 
+  white: [Kc4, Qa5, Rb7, Rh7, Bb5, Bc7, Se6, Se8, Pd5, Pe5]
+  black: [Ke7, Qc8, Ra7, Ba3, Bf7]
+stipulation: "#2"
+solution: |
+  " 1.S8g7 (2.Sf5#)
+
+1...Qxe6 2.Bd6#
+1...Qd7 2.Bd8#
+1...Qxc7 2.Qxc7#
+1...Bxe6 2.Sxe6#"
+keywords: 
+  - 
